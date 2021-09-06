@@ -12,7 +12,7 @@ Simple whatsapp bot | Reedited from whatsasena
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/NEHABOT0909/Sophia">Hisham-muhammed</a> to make it public
+Project created by <a href="https://github.com/Hisham-muhammed">Hisham-muhammed</a> to make it public
     <br>
        | Â© |
         Reserved |
